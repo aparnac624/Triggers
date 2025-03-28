@@ -39,4 +39,4 @@ This project demonstrates the creation of triggers on a database. The following 
 - `before_delete_teacher`: Prevents deletion of teachers with over 10 years of experience.
 - `after_delete_teacher`: Logs the deletion of a teacher.
 
-## Note : Have attached the screenshots of ouputs.
+## Note : Have attached the screenshots of outputs.
